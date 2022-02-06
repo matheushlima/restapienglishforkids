@@ -1,4 +1,14 @@
 {
+  "users":[
+    {
+      "id": 1,
+      "name": "Matheus Henrique",
+      "email": "matheus@hotmail.com",
+      "xp": 0,
+      "highscore": 0
+    }
+  ],
+
   "categories": [
     {
       "id": 1,
