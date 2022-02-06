@@ -9,6 +9,16 @@
     }
   ],
 
+  "words":[
+    {
+      "id": 1,
+      "word": "Two",
+      "translation": "dois",
+      "categories": "Numbers"
+    }
+  ],
+
+
   "categories": [
     {
       "id": 1,
